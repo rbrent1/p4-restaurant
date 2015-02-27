@@ -1,0 +1,40 @@
+body {
+	background: #313131;
+}
+
+h1, h2, h3, h4, h5 {
+	color: white;
+}
+
+li {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+.contact {
+	text-align: center;
+}
+
+.column, .five, .wide {
+	text-align: center;
+}
+
+.hidden, .content {
+	color: white;
+}
+
+
+
+
+
+.menu {
+	text-align: center;
+}
+
+.visible, .content {
+  width: 230px;
+  height: 200px;
+}
