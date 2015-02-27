@@ -37,27 +37,56 @@ p {
 }
 
 
-
-
-
 .article {
 	text-align: center;
 }
 
 
 
-.contact {
-	text-align: center;
-}
-
 .column, .five, .wide {
 	text-align: center;
 }
 
-
-
 .visible, .content {
   width: 230px;
   height: 200px;
+}
+
+#box {
+    width: 1085px;
+    margin: 25px;
+    margin-left: 10px;
+    margin-top: 75px;
+    background: white;
+}
+
+.line-separator{
+	width: 1083px;
+	height: 3px;
+	background: rgb(167, 167, 167);
+	margin-left: 14px
+
+}
+
+#front {
+	float: right;
+	margin-top: -123px;
+	margin-right: 50px;
+}
+
+#img {
+	margin-left: -14px;
+}
+
+#categories {
+	margin-left: 100px;
+}
+
+#map {
+	margin-left: 220px;
+}
+
+#contact {
+	margin-left: 200px;
 }
 
