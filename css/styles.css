@@ -1,5 +1,5 @@
 body {
-	background: #313131;
+	background: rgb(80, 80, 80);
 }
 
 h1, h2, h3, h4, h5 {
@@ -14,6 +14,38 @@ p {
 	color: white;
 }
 
+/* Colored Lines for Images*/
+
+.yellow {
+	border-top: solid yellow;
+	height: 230px;
+}
+
+.blue {
+	border-top: solid lightblue;
+	height: 230px;
+}
+
+.red {
+	border-top: solid red;
+	height: 230px;
+}
+
+.green {
+	border-top: solid green;
+	height: 230px;
+}
+
+
+
+
+
+.article {
+	text-align: center;
+}
+
+
+
 .contact {
 	text-align: center;
 }
@@ -22,19 +54,10 @@ p {
 	text-align: center;
 }
 
-.hidden, .content {
-	color: white;
-}
 
-
-
-
-
-.menu {
-	text-align: center;
-}
 
 .visible, .content {
   width: 230px;
   height: 200px;
 }
+
